@@ -6,11 +6,7 @@
       'image'   => '/Lab7/penguins.jpg',
       'alt'     => 'Emperor penguin chicks huddled together',
       'facts'   => [
-        'Penguins are highly social birds that live in large colonies called rookeries, sometimes numbering in the hundreds of thousands.',
-        'Emperor penguins huddle together in tight groups to conserve warmth in Antarctic temperatures that can drop to -60°C.',
-        'Penguins communicate through a variety of vocalizations and body movements, and mated pairs can recognize each other\'s calls in a crowd.',
-        'Penguin chicks are kept warm under their parents\' brood pouches — a fold of skin above their feet.',
-        'Some penguin species, like the African penguin, are monogamous and return to the same mate year after year.',
+        'Penguins are flightless birds'
       ],
       'category' => 'Behavior',
       'habitat'  => 'Antarctica, sub-Antarctic islands, and southern coasts',
@@ -20,11 +16,7 @@
       'image'   => '/Lab7/puppies.webp',
       'alt'     => 'Two golden retriever puppies sitting in a flower field',
       'facts'   => [
-        'Puppies are born with their eyes and ears sealed shut; they rely entirely on touch and smell for the first two weeks of life.',
-        'Play behavior in puppies is not just fun — it is essential for developing social skills, bite inhibition, and coordination.',
-        'Puppies sleep up to 18–20 hours a day, as sleep is critical for brain development and physical growth.',
-        'Between 3–12 weeks is the critical socialization window: exposing puppies to different people, animals, and environments shapes their temperament for life.',
-        'Dogs are one of the few animals that actively seek eye contact with humans as a form of bonding — even puppies do this instinctively.',
+        'Puppies are loyal animals'
       ],
       'category' => 'Behavior',
       'habitat'  => 'Domestic environments worldwide',
@@ -34,11 +26,7 @@
       'image'   => '/Lab7/Cat.jpg',
       'alt'     => 'A ginger kitten lying on its back playfully',
       'facts'   => [
-        'Cats are crepuscular hunters, meaning they are most active at dawn and dusk — perfectly timed to when their prey is most active.',
-        'Kneading (making biscuits) is a comfort behavior cats carry from kittenhood, when they knead their mother\'s belly to stimulate milk flow.',
-        'Cats have a specialized collarbone that allows them to always land on their feet — a reflex called the "righting reflex."',
-        'A cat\'s purr operates at frequencies between 25–150 Hz, which research suggests can promote bone healing and reduce stress.',
-        'Cats communicate with humans in ways they don\'t use with other cats — the slow blink, for example, is a sign of trust and affection directed at people.',
+        'Cats are cute animals'
       ],
       'category' => 'Behavior',
       'habitat'  => 'Domestic environments and wild territories worldwide',
